@@ -12,9 +12,8 @@ namespace YodleeSetup
     {
         static async Task Main(string[] args)
         {
-            var userId = "sbMem601028m72d3b41";
+            var userId = "Test User Login Id goes here";
 
-            //var adminUserId = "aff5210f-f636-4c3a-b551-39d8e926709a_ADMIN";
             var authToken = await CreateAuthToken(userId);
 
             var x = await GetAccounts(authToken);
@@ -25,8 +24,8 @@ namespace YodleeSetup
         private static async Task<string> CreateAuthToken(string userId)
         {
             const string tokenRequestUri = @"https://sandbox.api.yodlee.com:443/ysl/auth/token";
-            const string clientId = "zGcn7bqbco7zklIGGqM0dORZTh0bHpAz";
-            const string secret = "PmTpzk5GkduCcXHF";
+            const string clientId = "client id goes here";
+            const string secret = "secret goes here";
 
             // Create the request to send to Yodlee
             var request = new HttpRequestMessage(HttpMethod.Post, tokenRequestUri);
