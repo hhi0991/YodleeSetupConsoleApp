@@ -1,0 +1,10 @@
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\bin\Debug\YodleeSetup.exe.config
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\bin\Debug\YodleeSetup.exe
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\bin\Debug\YodleeSetup.pdb
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\obj\Debug\YodleeSetup.csprojAssemblyReference.cache
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\obj\Debug\YodleeSetup.csproj.CoreCompileInputs.cache
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\obj\Debug\YodleeSetup.csproj.CopyComplete
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\obj\Debug\YodleeSetup.exe
+C:\Users\jglidden\source\repos\YodleeSetup\YodleeSetup\obj\Debug\YodleeSetup.pdb
